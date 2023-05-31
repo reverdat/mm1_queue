@@ -13,6 +13,6 @@ Simulation project for the Stochastic Processes course of my Mathematics BSc.
 
 ## Example
 Results for a random trajectory with $\lambda = 2$, $mu = 5$ and $T = 1000$:
-* Trajectory: ![M/M/1 trajectory](sample_img/traj.png)
-* % server utilization: ![Percentage server utilization](sample_img/per.png)
-* Expected number in system: ![M/M/1 expected number in system](sample_img/exp.png)
+* **Trajectory**: ![M/M/1 trajectory](sample_img/traj.png)
+* **% server utilization**: ![Percentage server utilization](sample_img/per.png)
+* **Expected number in system**: ![M/M/1 expected number in system](sample_img/exp.png)
